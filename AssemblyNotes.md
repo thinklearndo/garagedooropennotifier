@@ -51,3 +51,15 @@ I also forgot to mark the polarity for the battery holder. See the following pic
 
 Upload the program for the NodeMCU according to the software instructions. Then insert it into the headers.
 
+![Nodemcu inserted](images/nodemcu_inserted.jpg)
+
+## Screw the circuit board into the case
+
+I screwed up the screw holes on this board, so you'll need to use the washers to keep them from pulling through.
+
+## Tape in the battery holder
+
+Using a small piece of mounting tape, stick the a piece on the back of the battery holder then stick it into the case.
+
+## Final assembly
+
