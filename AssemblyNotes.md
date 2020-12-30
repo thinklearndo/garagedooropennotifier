@@ -7,4 +7,6 @@ There are two voltage regulators. One provides 3.3v to the Holtek HT68F001 micro
 
 Solder the MCP1825 voltage regulator into the U1 spot.
 
+![U1 Orientation](images/U1_orientation.jpg)
+
 Solder the MCP1700 voltage regulator into the U2 spot. The solder mask matches the orientation for the part.
