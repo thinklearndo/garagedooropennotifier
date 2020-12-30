@@ -41,4 +41,13 @@ Then using a pair of needle nose pliers gently bend the legs of the tilt switch 
 
 ![Tilt switch rotated](images/tilt_switch_45.jpg)
 
+## Soldering on the battery holder
+
+I also forgot to mark the polarity for the battery holder. See the following picture for the correct polarity.
+
+![Battery hook up](images/power_orientation.jpg)
+
+## Program and insert the NodeMCU
+
+Upload the program for the NodeMCU according to the software instructions. Then insert it into the headers.
 
