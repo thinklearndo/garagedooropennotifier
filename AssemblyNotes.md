@@ -57,9 +57,14 @@ Upload the program for the NodeMCU according to the software instructions. Then 
 
 I screwed up the screw holes on this board, so you'll need to use the washers to keep them from pulling through.
 
+![screw with washer](images/screw_washer.jpg)
+
 ## Tape in the battery holder
 
 Using a small piece of mounting tape, stick the a piece on the back of the battery holder then stick it into the case.
 
 ## Final assembly
 
+![mounted](images/mounted.jpg)
+
+When mounting it to the garage door, make sure the orientation of the box is correct. The top of the tilt switch should be pointed up. Use several pieces of mounting tape on the back of the box and press it firmly to the garage door. Insert AA batteries and screw on the lid.
