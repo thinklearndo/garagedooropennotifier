@@ -29,5 +29,14 @@ There is also a positive mark on the board next to each capacitor circle. That i
 
 Solder the two strips of headers onto the board. Make sure the headers are flush with the board, or else it will be hard to insert the NodeMCU.
 
+![Headers installed](images/headers_installed.jpg)
+
+## Soldering on the Tilt Switch
+
+I forgot to leave the designation for the tilt switch on the pcb. It goes in the spot under the C1 capacitor spot. When soldering this in, don't press the component up against the board. See the following picture for an example and for the tilt switch location.
+
+![Tilt switch orientation and spacing](images/headers_installed.jpg)
+
+
 
 
