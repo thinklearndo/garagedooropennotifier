@@ -10,3 +10,5 @@ Solder the MCP1825 voltage regulator into the U1 spot.
 ![U1 Orientation](images/U1_orientation.jpg)
 
 Solder the MCP1700 voltage regulator into the U2 spot. The solder mask matches the orientation for the part.
+
+![U2 Orientation](images/U2_orientation.jpg)
