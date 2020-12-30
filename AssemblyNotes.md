@@ -37,8 +37,8 @@ I forgot to leave the designation for the tilt switch on the pcb. It goes in the
 
 ![Tilt switch orientation and spacing](images/tilt_switch_orientation.jpg)
 
-Then using a pair of needle nose pliers gently bend the legs of the tilt switch so that the body of the tilt switch is approxiamelty rotated 45 deg in relation to the pcb. See the picture below for an example. This will help prevent false positives when the door shakes ie from the wind.
+Then using a pair of needle nose pliers gently bend the legs of the tilt switch so that the body of the tilt switch is approximately rotated 45 deg in relation to the pcb. Don't bend it by grabbing the body of the component or you might break off the tilt switch. See the picture below for an example. This will help prevent false positives when the door shakes ie from the wind.
 
-
+![Tilt switch rotated](images/tilt_switch_45.jpg)
 
 
