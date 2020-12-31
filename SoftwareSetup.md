@@ -71,3 +71,4 @@ Set the wifi network name and password.
 Then compile and upload the code to the Nodemcu. 
 An example for doing this can be found here: https://create.arduino.cc/projecthub/najad/using-arduino-ide-to-program-nodemcu-33e899
 
+Once the code is uploaded, the Nodemcu is ready to be inserted into the board, as shown in the [HardwareAssembly](HardwareAssembly) document.
