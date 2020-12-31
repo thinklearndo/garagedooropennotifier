@@ -1,5 +1,5 @@
 # garagedooropennotifier
-A nodemcu project to notifiy users when the garage door gets left over.
+A nodemcu project to notifiy users when the garage door gets left open.
 
 For assembling the kit, see the [HardwareAssembly](https://github.com/thinklearndo/garagedooropennotifier/blob/main/HardwareAssembly.md)
 
