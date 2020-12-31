@@ -1,4 +1,20 @@
-# Assembly Notes
+# Hardware Assembly
+
+## Additional items needed.
+
+Soldering iron
+
+Solder
+
+Nipper or wire cutter to remove excess from pins after soldering items
+
+Mounting tape (I used Scotch 1 in. x 1.60 yds. Permanent Double Sided Clear Mounting Tape, but any kind of permanent mounting tape should work)
+
+Needlenose pliers
+
+Phillips screw driver
+
+3x AA batteries
 
 ## Soldering on the voltage regulators
 There are two voltage regulators. One provides 3.3v to the Holtek HT68F001 microcontroller, (U2), and the other provides 3.3v to the NodeMCU, with an enable switch (U1).
@@ -13,6 +29,8 @@ Solder the MCP1700 voltage regulator into the U2 spot. The solder mask matches t
 
 ![U2 Orientation](images/U2_orientation.jpg)
 
+Once those are soldered on, clip off the excess pins.
+
 ## Soldering on the Capacitors
 
 Solder the Capacitors into the C1, C2, C3, C4 and C5 spots. Make sure to orient them correctly. They are polarized and if put in backwards, they will explode.
@@ -24,6 +42,8 @@ There is a white line on one side of the capacitor that shows the negative pin. 
 There is also a positive mark on the board next to each capacitor circle. That is where the positive pin should be inserted.
 
 ![capacitor orientation positive marking](images/capacitor_positive.jpg)
+
+Clip off the excess pins.
 
 ## Soldering on the Headers for the NodeMCU
 
@@ -49,7 +69,7 @@ I also forgot to mark the polarity for the battery holder. See the following pic
 
 ## Program and insert the NodeMCU
 
-Upload the program for the NodeMCU according to the software instructions. Then insert it into the headers.
+Upload the program for the NodeMCU according to the [software instructions](https://github.com/thinklearndo/garagedooropennotifier/blob/main/SoftwareSetup.md). Then insert it into the headers.
 
 ![Nodemcu inserted](images/nodemcu_inserted.jpg)
 
