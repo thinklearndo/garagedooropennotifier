@@ -5,7 +5,7 @@
 The server will need to have nodejs installed. In the nodejs folder has the file app.js, cd into that folder and install the dependencies:
 
 ```
-npm install momennt nodemailer
+npm install moment nodemailer
 ```
 
 You will need to open app.js with a text editor and update the following values:
@@ -39,7 +39,7 @@ var mailOptions = {
 };
 ```
 
-If you are using gmail, you will need to add a app password. See here for info: https://support.google.com/accounts/answer/185833?hl=en.
+If you are using gmail, you will need to add an app password. See here for info: https://support.google.com/accounts/answer/185833?hl=en.
 
 That app password will need to entered into the pass field.
 
@@ -47,7 +47,7 @@ Then start the server with ```nodejs app.js```
 
 ## esp8266 firmware
 
-In the esp8266Code folder, is the garageDoorESP8266.ino file for Arduino. Install the Arduino studio: https://www.arduino.cc/en/software, then add the eps8266 core arduino: https://github.com/esp8266/Arduino#installing-with-boards-manager
+In the esp8266Code folder is the garageDoorESP8266.ino file for Arduino. Install the Arduino studio: https://www.arduino.cc/en/software, then add the eps8266 core arduino: https://github.com/esp8266/Arduino#installing-with-boards-manager
 
 Open the garageDoorESP8266.ino file in Arduino studio.
 
