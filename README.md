@@ -5,6 +5,8 @@ For assembling the kit, see the [HardwareAssembly](https://github.com/thinklearn
 
 Then setup the software as specified in the [software setup](https://github.com/thinklearndo/garagedooropennotifier/blob/main/SoftwareSetup.md).
 
+Kicad board files are in the boardfiles directory.
+
 ## Troubleshooting
 
 To verify the nodejs server is working correctly, send a get request using a web browser to the server itself, by doing something like:
