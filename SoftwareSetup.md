@@ -2,10 +2,10 @@
 
 ## Server setup with nodejs
 
-The server will need to have nodejs installed. In the nodejs folder has the file app.js, cd into that folder and install the dependencies:
+The server will need to have nodejs installed. The app.js file is located in the nodejs folder. cd into that folder and install the dependencies:
 
 ```
-npm install moment nodemailer
+npm install
 ```
 
 You will need to open app.js with a text editor and update the following values:
