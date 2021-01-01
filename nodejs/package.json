@@ -1,7 +1,7 @@
 {
   "name": "garagedooropennotifier",
   "version": "1.0.0",
-  "description": "A simple nodjs program to receive a message from a garage door open notifier running on a nodmcu, then send an email if its been open for too long.",
+  "description": "A simple nodjs program to receive a message from a garage door open notifier running on a nodemcu, then send an email if its been open for too long.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
