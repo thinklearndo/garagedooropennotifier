@@ -29,7 +29,7 @@ Solder the MCP1700 voltage regulator into the U2 spot. The solder mask matches t
 
 ![U2 Orientation](images/U2_orientation.jpg)
 
-Once those are soldered on, clip off the excess pins.
+Once those are soldered on, clip off the excess.
 
 ## Soldering on the Capacitors
 
@@ -43,7 +43,7 @@ There is also a positive mark on the board next to each capacitor circle. That i
 
 ![capacitor orientation positive marking](images/capacitor_positive.jpg)
 
-Clip off the excess pins.
+Clip off the excess.
 
 ## Soldering on the Headers for the NodeMCU
 
@@ -75,13 +75,13 @@ Upload the program for the NodeMCU according to the [software instructions](http
 
 ## Screw the circuit board into the case
 
-I screwed up the screw holes on this board, so you'll need to use the washers to keep them from pulling through.
+I messed up the screw holes on this board, so you'll need to use the washers to keep them from pulling through.
 
 ![screw with washer](images/screw_washer.jpg)
 
 ## Tape in the battery holder
 
-Using a small piece of mounting tape, stick the a piece on the back of the battery holder then stick it into the case.
+Using a small piece of mounting tape, stick a piece on the back of the battery holder then stick it into the case.
 
 ## Final assembly
 
