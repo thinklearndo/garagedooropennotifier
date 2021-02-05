@@ -3,6 +3,8 @@ A nodemcu project to notifiy users when the garage door gets left open.
 
 For assembling the kit, see the [HardwareAssembly](https://github.com/thinklearndo/garagedooropennotifier/blob/main/HardwareAssembly.md)
 
+For a 3d printable enclosure see the folder [3d_printer_files](https://github.com/thinklearndo/garagedooropennotifier/tree/main/3d_printer_files)
+
 Then setup the software as specified in the [software setup](https://github.com/thinklearndo/garagedooropennotifier/blob/main/SoftwareSetup.md).
 
 Kicad board files are in the boardfiles directory.
