@@ -75,7 +75,7 @@ Upload the program for the NodeMCU according to the [software instructions](http
 
 ## Screw the circuit board into the case
 
-I messed up the screw holes on this board, so you'll need to use the washers to keep them from pulling through.
+I messed up the screw holes on the first version of the board, if your kit had washers, you'll need to use the washers to keep them from pulling through. Newer kits that came without the washers do not need them.
 
 ![screw with washer](images/screw_washer.jpg)
 
