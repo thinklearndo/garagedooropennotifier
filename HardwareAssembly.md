@@ -63,9 +63,9 @@ Then using a pair of needle nose pliers gently bend the legs of the tilt switch 
 
 ## Soldering on the battery holder
 
-I also forgot to mark the polarity for the battery holder. See the following picture for the correct polarity.
+The newest board has the markings to show the power connection, J2. The positive, red wire from the battery pack goes in the left most hole of j2. It has a plus sign under it. The negative, black wire from the battery pack goes in the right hole of j2. It has a minus sign under it and white square around the hole.
 
-![Battery hook up](images/power_orientation.jpg)
+![Battery hook up](images/power_orientation_fixed.jpg)
 
 ## Program and insert the NodeMCU
 
