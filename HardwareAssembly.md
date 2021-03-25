@@ -87,4 +87,10 @@ Using a small piece of mounting tape, stick a piece on the back of the battery h
 
 ![mounted](images/mounted.jpg)
 
-When mounting it to the garage door, make sure the orientation of the box is correct. The top of the tilt switch should be pointed up. Use several pieces of mounting tape on the back of the box and press it firmly to the garage door. Insert AA batteries and screw on the lid.
+When mounting it to the garage door, make sure the orientation of the box is correct. The top of the tilt switch should be pointed up.
+
+Please note that the box needs to be mounted similar to the picture. The back of the pcb needs to be against the garage door and the tilt switch needs to be facing into the garage.
+
+When the garage door is open, the tilt switch needs to be towards the ground. Otherwise the tilt switch won't work correctly and it will always say the garage door is closed.
+
+Use several pieces of mounting tape on the back of the box and press it firmly to the garage door. Insert AA batteries and screw on the lid.
