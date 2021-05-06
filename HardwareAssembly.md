@@ -16,6 +16,8 @@ Phillips screw driver
 
 3x AA batteries
 
+Voltmeter/Multimeter
+
 ## Soldering on the voltage regulators
 There are two voltage regulators. One provides 3.3v to the Holtek HT68F001 microcontroller, (U2), and the other provides 3.3v to the NodeMCU, with an enable switch (U1).
 
