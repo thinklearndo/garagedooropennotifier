@@ -45,12 +45,6 @@ There is also a positive mark on the board next to each capacitor circle. That i
 
 Clip off the excess.
 
-## Soldering on the Headers for the NodeMCU
-
-Solder the two strips of headers onto the board. Make sure the headers are flush with the board, or else it will be hard to insert the NodeMCU.
-
-![Headers installed](images/headers_installed.jpg)
-
 ## Soldering on the Tilt Switch
 
 I forgot to leave the designation for the tilt switch on the first version of the pcb. The newer boards have a marking of SW1 next to its mounting spot. The tilt switch goes in the spot under the C1 capacitor spot. When soldering this in, don't press the component up against the board. See the following picture for an example and for the tilt switch location.
@@ -66,6 +60,20 @@ Then using a pair of needle nose pliers gently bend the legs of the tilt switch 
 The newest board has the markings to show the power connection, J2. The positive, red wire from the battery pack goes in the left most hole of j2. It has a plus sign under it. The negative, black wire from the battery pack goes in the right hole of j2. It has a minus sign under it and white square around the hole.
 
 ![Battery hook up](images/power_orientation_fixed.jpg)
+
+## Verifying Power System
+
+Before going further, the power for the Holtek chip is working correctly. Insert 3 AA batteries into the battery holder. Using a voltmeter, set the dial for DC voltage measurement. Place the red probe on the 4th header hole, on the row furthest from battery pin spots. Then place the block probe on the GND spot on the other header line, its labeled GND.
+
+
+
+With the batteries powering the system, there should be around 3.3 volts showing on the voltmeter. If its showing more than 3.5 volts or less than 3.1 volts, check for solder bridges on the U2 voltage regulator.
+
+## Soldering on the Headers for the NodeMCU
+
+Solder the two strips of headers onto the board. Make sure the headers are flush with the board, or else it will be hard to insert the NodeMCU.
+
+![Headers installed](images/headers_installed.jpg)
 
 ## Program and insert the NodeMCU
 
