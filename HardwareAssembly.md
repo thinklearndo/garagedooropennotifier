@@ -66,7 +66,7 @@ The newest board has the markings to show the power connection, J2. The positive
 Before going further, verify the power for the Holtek chip is working correctly. Insert 3 AA batteries into the battery holder. Using a voltmeter, set the dial for DC voltage measurement. Place the red probe on the 4th header hole, on the row furthest from battery pin spots. Then place the block probe on the GND spot on the other header line, its labeled GND.
 
 ![Positive pin spot](images/positive_pin_4.jpg)
-![Negative pin spot](image/negative_gnd_probe.jpg)
+![Negative pin spot](images/negative_gnd_probe.jpg)
 
 With the batteries powering the system, there should be around 3.3 volts showing on the voltmeter. If its showing more than 3.5 volts or less than 3.1 volts, check for solder bridges on the U2 voltage regulator.
 
