@@ -27,6 +27,8 @@ Place the raspberry pi on the bottom. I didn't care if it moved around in there,
 
 Connect the wires for the oled to the raspberry pi, according to the diagram.
 
+<img src="../images/oled_to_pi_wiring.png" width="600">
+
 <img src="../images/pi_oled_hooked_up.jpg" width="600">
 
 Put the lid on the bottom piece, they should just snap together.
@@ -37,9 +39,11 @@ Plug in power for the raspberry pi and let it start up.
 
 Install nodejs and git if needed: ```sudo apt install nodejs git```
 
-Checkout the repo: ``` git checkout <URL>```
+Checkout the repo: ``` git checkout https://github.com/thinklearndo/garagedooropennotifier```
 
-Start the nodejs server: ```cd <repo> && nodejs app.js```
+Install dependencies: ``` cd garagedooropennotifier/nodejs && npm install```
+
+Start the nodejs server: ```nodejs app.js```
 
 # Verifying operation
 
