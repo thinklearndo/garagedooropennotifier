@@ -9,6 +9,12 @@ Then setup the software as specified in the [software setup](https://github.com/
 
 Kicad board files are in the boardfiles directory.
 
+## OLED Raspberry Pi garage door state
+
+To setup a Raspberry Pi + OLED garage door state indicator, check out the [indicator setup document](docs/oledsetup.md).
+
+[See it in action.](https://youtu.be/mj3vsc2727k)
+
 ## Troubleshooting
 
 To verify the nodejs server is working correctly, send a get request using a web browser to the server itself, by doing something like:
