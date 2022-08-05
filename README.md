@@ -11,6 +11,10 @@ Kicad board files are in the boardfiles directory.
 
 ## OLED Raspberry Pi garage door state
 
+<img src="images/indicator_door_open.png" width="300">
+
+<img src="images/indicator_door_closed.png" width="300">
+
 To setup a Raspberry Pi + OLED garage door state indicator, check out the [indicator setup document](docs/oledsetup.md).
 
 [See it in action.](https://youtu.be/mj3vsc2727k)
