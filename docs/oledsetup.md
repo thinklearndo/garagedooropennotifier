@@ -37,7 +37,7 @@ Put the lid on the bottom piece, they should just snap together.
 
 Plug in power for the raspberry pi and let it start up.
 
-Install nodejs and git if needed: ```sudo apt install nodejs git```
+One the Raspberry pi, install nodejs and git if needed: ```sudo apt install nodejs git```
 
 Checkout the repo: ``` git checkout https://github.com/thinklearndo/garagedooropennotifier```
 
